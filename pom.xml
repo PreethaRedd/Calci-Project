@@ -19,7 +19,7 @@
         <thucydides.version>1.8.4</thucydides.version>
         <jelastic.context>gameoflife</jelastic.context>
         <jelastic.environment>wakaleo</jelastic.environment>
-        <sonar.host.url>http://3.110.214.195:9000/</sonar.host.url>
+        <sonar.host.url>http://13.233.18.194:9000/</sonar.host.url>
     </properties>
 
     <scm>
@@ -210,12 +210,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://3.109.154.27:8081/repository/preetha-reposnap/</url>
+		    <url>http://52.66.192.36:8081/repository/preetha-reposnap/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.109.154.27:8081/repository/preetha-repo/</url>
+		    <url>http://52.66.192.36:8081/repository/preetha-repo/</url>
 		</repository>
   	</distributionManagement> 
     
